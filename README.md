@@ -11,7 +11,7 @@
 <legend>Registrasi</legend> 
 <p> 
 <label>Nama:</label> 
-<input type="text" name="nama" placeholder="Nama lengkap" /> 
+<input type="text" name="nama" placeholder="Nama lengkap= Jessica Christianti" /> 
 <p> 
 <input type="submit" name="submit" value="Daftar" /> 
 </p> 
